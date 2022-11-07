@@ -28,7 +28,7 @@ const Footer = () => {
                 size={20}
                 style={{ color: "#fff", marginRight: "2rem" }}
               />
-              (123) 456-7890
+              (334) 372-8090
             </h4>
           </div>
           <div className="email">
