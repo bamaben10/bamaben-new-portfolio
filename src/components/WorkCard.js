@@ -6,7 +6,7 @@ import { NavLink } from "react-router-dom";
 const WorkCard = (props) => {
   return (
     <div className="work-container">
-      <h1 className="project-heading">Projects</h1>
+      <h1 className="project-heading"></h1>
       <div className="project-container">
         <div className="project-card">
           <img src={props.imgsrc} alt="image" />
@@ -17,7 +17,7 @@ const WorkCard = (props) => {
               <NavLink to={props.view} className="btn">
                 View
               </NavLink>
-              <NavLink to="url.com" className="btn">
+              <NavLink to={props.source} className="btn">
                 Source
               </NavLink>
             </div>
