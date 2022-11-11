@@ -13,6 +13,7 @@ project-container{
 }
 
 .project-card{
+    border: 1px solid #eee;
     background: #1a1919;
     padding: 1.2rem 1rem;
 }
@@ -49,4 +50,4 @@ project-container{
 
         grid-template-columns: 1fr;
     }
-}
+} 
