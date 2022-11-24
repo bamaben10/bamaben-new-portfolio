@@ -4,6 +4,10 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 
 const WorkCard = (props) => {
+  const handleClick = (link) => {
+    window.open(link);
+  };
+
   return (
     <div className="work-container">
       <h1 className="project-heading">Project</h1>
@@ -14,12 +18,12 @@ const WorkCard = (props) => {
           <div className="pro-details">
             <p>{props.text}</p>
             <div className="pro-btns">
-              <NavLink to={props.view} className="btn">
+              <button onClick={() => handleClick(props.view)} className="btn">
                 View
-              </NavLink>
-              <NavLink to={props.source} className="btn">
+              </button>
+              <button onClick={() => handleClick(props.source)} className="btn">
                 Source
-              </NavLink>
+              </button>
             </div>
           </div>
         </div>
