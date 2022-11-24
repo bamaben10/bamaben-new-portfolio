@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bamaben10/BenTheDeveloper.github.io/static/css/main.47befc15.css",
+    "main.js": "/bamaben10/BenTheDeveloper.github.io/static/js/main.d77db861.js",
+    "static/media/react-img.png": "/bamaben10/BenTheDeveloper.github.io/static/media/react-img.1833e6a2af773985fae4.png",
+    "static/media/react-img2.png": "/bamaben10/BenTheDeveloper.github.io/static/media/react-img2.836c24dbc5d2c3367604.png",
+    "static/media/PCB-img.png": "/bamaben10/BenTheDeveloper.github.io/static/media/PCB-img.66c4bf2f9fec1a7a7a03.png",
+    "static/media/cinnamon-roll-capstone.png": "/bamaben10/BenTheDeveloper.github.io/static/media/cinnamon-roll-capstone.4b44eb330054ad38b634.png",
+    "static/media/Stock-img.png": "/bamaben10/BenTheDeveloper.github.io/static/media/Stock-img.fbc4e3af5d089fa27572.png",
+    "index.html": "/bamaben10/BenTheDeveloper.github.io/index.html",
+    "main.47befc15.css.map": "/bamaben10/BenTheDeveloper.github.io/static/css/main.47befc15.css.map",
+    "main.d77db861.js.map": "/bamaben10/BenTheDeveloper.github.io/static/js/main.d77db861.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47befc15.css",
+    "static/js/main.d77db861.js"
+  ]
+}
